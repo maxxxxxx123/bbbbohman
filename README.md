@@ -1,3 +1,3 @@
 # bbbbohman
 about me
-![HTB](https://www.hackthebox.eu/badge/170568)
+![](https://www.hackthebox.eu/badge/image/170568)
